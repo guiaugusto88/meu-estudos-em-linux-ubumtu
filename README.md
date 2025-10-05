@@ -1,11 +1,9 @@
-# meu-estudos-em-linux-ubuntu
 # Meus Estudos em Linux (Ubuntu)
 
 Bem-vindo ao meu repositório de anotações sobre Linux!
 
 Este é um projeto pessoal para documentar meu aprendizado de comandos, scripts e conceitos do sistema operacional Linux, com foco na distribuição Ubuntu.
 
-## Estrutura de Diretórios Essenciais do Linux
 ## Estrutura de Diretórios Essenciais do Linux
 
 * `**/bin**`: Armazenamento de arquivos binários essenciais do sistema.
