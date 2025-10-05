@@ -1,4 +1,4 @@
-# meu-estudos-em-linux-ubumtu
+# meu-estudos-em-linux-ubuntu
 # Meus Estudos em Linux (Ubuntu)
 
 Bem-vindo ao meu repositório de anotações sobre Linux!
